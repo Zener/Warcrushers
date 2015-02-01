@@ -1,0 +1,61 @@
+<campaign>
+	<stage>
+		<name>La frontera</name>
+		<brief>Durante anyos las hostilidades entre el ducado de Varangian y el reino de Novgorod se han ido sucediendo.
+		
+		Como commandante del ejercito de Varangian, se te ha encomendado la tarea de frenar el avance de las tropas de Novgorod. Tras marchar durante semanas te aproximas a tu principal fortaleza fronteriza. Para llegar alli hay que atravesar un sinuoso paso de montanya.
+		
+		Tus batidores te han informado que las tropas enemigas se encuentran distribuidas a lo largo del camino. Deberas abrirte paso a traves de ellas para llegar a la fortaleza y desde alli organizar el contraataque.
+		
+		Objetivos de la mision:
+		- Toma la fortaleza situada al este
+		- Destruye las tropas enemigas
+		
+		</brief>
+		<brackground>a</background>
+		<map>stage1.map</map>
+	</stage>
+	
+	<stage>
+		<name>Tierra quemada</name>
+		<brief>En su retirada el ejercito de Novgorod</brief>
+		<map>stage1.map</map>
+	</stage>
+	
+	<stage>
+		<name>El puente de Jacobsvirch</name>
+		<brief>a</brief>
+		<map>stage1.map</map>
+	</stage>
+
+	<stage>
+		<name>Primera Linea</name>
+		<brief>a</brief>
+		<map>stage1.map</map>
+	</stage>
+
+	<stage>
+		<name>El sitio de Mukaceeve</name>
+		<brief>a</brief>
+		<map>stage1.map</map>
+	</stage>
+
+	<stage>
+		<name>La batalla de las 4 torres</name>
+		<brief>a</brief>
+		<map>stage1.map</map>
+	</stage>
+
+	<stage>
+		<name>Concentracion de tropas</name>
+		<brief>a</brief>
+		<map>stage1.map</map>
+	</stage>
+	
+	<stage>
+		<name>La toma de Novdrel</name>
+		<brief>a</brief>
+		<map>stage1.map</map>
+	</stage>
+	
+</campaign>

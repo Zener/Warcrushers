@@ -1,0 +1,5 @@
+Elimina toda fuerza enemiga
+Contruye 3 castillos
+Recluta 500 soldados
+Toma localizacion x,y
+No perder x,y

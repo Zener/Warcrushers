@@ -1,0 +1,10 @@
+bin\Debug\WC-Editor.exe
+bin\Debug\WC-Editor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WC_Editor.Properties.Resources.resources
+obj\Debug\WC-Editor.csproj.GenerateResource.Cache
+obj\Debug\WC-Editor.exe
+obj\Debug\WC-Editor.pdb
+obj\Debug\WC_Editor.WCEditorMain.resources
+obj\Debug\WC_Editor.ObjectiveForm.resources
+obj\Debug\WC_Editor.AboutForm.resources

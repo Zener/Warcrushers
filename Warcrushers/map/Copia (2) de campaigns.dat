@@ -1,0 +1,96 @@
+<campaign>
+	<stage>
+		<name>La frontera</name>
+		<brief>Durante anyos las hostilidades entre el ducado de Varangian y el reino de Novgorod se han ido sucediendo.
+		
+		Como commandante del ejercito de Varangian, se te ha encomendado la tarea de frenar el avance de las tropas de Novgorod. Tras marchar durante semanas te aproximas a tu principal fortaleza fronteriza. Para llegar alli hay que atravesar un sinuoso paso de montanya.
+		
+		Tus batidores te han informado que las tropas enemigas se encuentran distribuidas a lo largo del camino. Deberas abrirte paso a traves de ellas para llegar a la fortaleza y desde alli organizar el contraataque.
+		
+		Objetivos de la mision:
+		- Toma la fortaleza situada al este
+		- Destruye las tropas enemigas
+		
+		</brief>
+		<background>img\scenarios\valle.bmp</background>
+		<map>stage1.map</map>
+	</stage>
+	
+	<stage>
+		<name>Tierra quemada</name>
+		<brief>En su retirada, el ejercito de Novgorod ha incendiado cuanto hallaba a su paso. La gente de Varangian es fuerte y saldra adelante.
+		El duque te ha encomendado reclutar un gran ejercito para lanzar un contrataque y acabar con los enemigos de Varangian.
+		Se te ha entregado una cantidad de dinero para ayudar a la reconstruccion de las aldeas destruidas y reclutar hombres entre la poblacion
+		
+		Objetivos de la mision:
+		- Recluta 500 soldados
+		
+		</brief>
+		<background>img\scenarios\aldeaquemada.bmp</background>
+		<map>stage2.map</map>
+	</stage>
+	
+	<stage>
+		<name>El puente de Jacobsvirch</name>
+		<brief>Para poder entrar en territorio de Novgorod hay que atravesar el rio Ebeerbach. El unico puente por el que puede pasar un ejercito es el punte de Jacobsvirch.
+		
+		Debes eliminar toda fuerza enemiga de la zona para que pase nuestro ejercito.
+		
+		Objetivos de la mision:
+		- Elimina toda fuerza enemiga
+				
+		</brief>
+		<background>img\scenarios\puente.bmp</background>
+		<map>stage3.map</map>
+	</stage>
+
+	<stage>
+		<name>Primera Linea</name>
+		<brief>Las tropas de Varangian ya han atravesado el puente. Que tiemblen nuestros enemigos.
+		El primer obstaculo de nuestro ejercito es el castillo de Uman. Esta muy bien protegido y no se rendira facilmente.
+		Hazte con las aldeas cercanas y destruye a nuestros enemigos.
+		
+		Objetivos de la mision:
+		- Elimina toda fuerza enemiga
+						
+		</brief>
+		<background>img\scenarios\stronghold.bmp</background>
+		<map>stage4.map</map>
+	</stage>
+
+	<stage>
+		<name>El sitio de Mukaceeve</name>
+		<brief>Tras su ultima derrota, el ejercito de Novgorod ha atravesado el rio con barcazas durante la noche.
+		Una gran cantidad de unidades se han concentrado a la afueras de nuestra ciudad Mukaceeve.
+		Sabiendo que Novgorod no dispone de abastecimiento, debemos aguantar el sitio hasta que se debiliten.
+		
+		Objetivos de la mision:
+		- Elimina toda fuerza enemiga		
+		
+		</brief>
+		<background>img\scenarios\citadel.bmp</background>
+		<map>stage5.map</map>
+	</stage>
+
+	<stage>
+		<name>La batalla de las 4 torres</name>
+		<brief>a</brief>
+		<background>img\scenarios\escbattle.bmp</background>
+		<map>stage6.map</map>
+	</stage>
+
+	<stage>
+		<name>Concentracion de tropas</name>
+		<brief>a</brief>
+		<background>img\valle.bmp</background>
+		<map>stage7.map</map>
+	</stage>
+	
+	<stage>
+		<name>La toma de Novdrel</name>
+		<brief>a</brief>
+		<background>img\valle.bmp</background>
+		<map>stage8.map</map>
+	</stage>
+	
+</campaign>

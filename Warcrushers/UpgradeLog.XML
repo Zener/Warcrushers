@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dia2">
+</Property><Property Name="Solution File" Value="F:\workspace\Warcrushers\Warcrushers\dia2.sln">
+</Property><Property Name="User Options File" Value="F:\workspace\Warcrushers\Warcrushers\dia2.suo">
+</Property><Property Name="Date" Value="domingo, 01 de febrero de 2015">
+</Property><Property Name="Time" Value="0:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="dia2.sln" Description="File successfully backed up as F:\workspace\Warcrushers\Warcrushers\dia2.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="dia2.suo" Description="File successfully backed up as F:\workspace\Warcrushers\Warcrushers\dia2.suo.old">
+</Event><Event ErrorLevel="0" Project="dia2" Source="dia2.vcproj" Description="Converting project file 'f:\workspace\Warcrushers\Warcrushers\dia2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="dia2" Source="dia2.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="dia2" Source="dia2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="dia2" Source="dia2.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="dia2" Source="dia2.vcproj" Description="MSB8012: $(TargetPath) ('f:\workspace\Warcrushers\Warcrushers\.\Debug\dia2.exe') does not match the Linker's OutputFile property value '.\Debug/dia2.exe' ('F:\workspace\Warcrushers\Warcrushers\Debug/dia2.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="dia2" Source="dia2.vcproj" Description="MSB8012: $(TargetName) ('dia2') does not match the Linker's OutputFile property value 'Release/joc.exe' ('joc') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="dia2" Source="dia2.vcproj" Description="MSB8012: $(TargetPath) ('f:\workspace\Warcrushers\Warcrushers\.\Release\dia2.exe') does not match the Linker's OutputFile property value 'Release/joc.exe' ('F:\workspace\Warcrushers\Warcrushers\Release/joc.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="dia2" Source="dia2.vcproj" Description="Done converting to new project file 'f:\workspace\Warcrushers\Warcrushers\dia2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="dia2" Source="dia2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dia2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="dia2.sln" Description="Converted">
+</Event></UpgradeLog>

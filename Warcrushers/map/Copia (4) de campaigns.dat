@@ -1,0 +1,174 @@
+xº<campaign>
+	<stage>
+		<name>The frontier</name>
+		<brief>Hostilities between the Varangian duchy and the kingdom of Novgorod have escalated during several years.
+		
+		As a commander of the Varangian army, you have been assigned the task of stopping the progress of Novgorod troops. After marching for several weeks, you approach your main fortress in the frontier. In order to get there you must cross an intrincated mountain pass.
+		
+		Your scouts bring news of enemy troops located along the road. You will have to make it to the fortress and prepare a counterattack.
+		
+		Mission objectives:
+		- Conquer the eastern fortress
+		- Destroy all enemy troops
+		
+		</brief>
+		
+		<onenter>
+			<y>3</y>
+			<x>1</x>
+			<marky>3</marky>
+			<markx>1</markx>			
+			<reenter>false</reenter>
+			<time>500</time>
+			<msg>Your army is in this cell. To move your army click on the cell</msg>
+		</onenter>
+		<onenter>
+			<y>3</y>
+			<x>1</x>
+			<marky>2</marky>
+			<markx>1</markx>
+			<time>500</time>			
+			<reenter>false</reenter>
+			<msg>Hold left mouse button and drag the cursor to this cell</msg>
+		</onenter>
+		<onenter>
+			<y>2</y>
+			<x>1</x>
+			<marky>1</marky>
+			<markx>8</markx>						
+			<reenter>true</reenter>
+			<msg>Your objective is to conquer this fortress</msg>
+		</onenter>
+		<onenter>
+			<y>1</y>
+			<x>8</x>
+			<time>500</time>
+			<reenter>false</reenter>
+			<msg>An army inside a building will grow up</msg>
+		</onenter>
+		<onenter>
+			<y>1</y>
+			<x>8</x>
+			<marky>-2</marky>
+			<markx>0</markx>									
+			<time>500</time>
+			<reenter>false</reenter>
+			<msg>Click on the building to move units inside</msg>
+		</onenter>
+		<background>img\scenarios\valle.bmp</background>
+		<map>stage1.map</map>
+	</stage>
+	
+	<stage>
+		<name>Scorched earth</name>
+		<brief>In its retreat, the Novgorod army has set fire to everything in its way. The Varangian people have always suffered, but we will not give up.
+		The duke wants you to recruit a large army to launch a counterattack and destroy the enemies of the Varangian people.
+		You have been given some money to help rebuilding the burnt villages and recruit men among the townsfolk.
+		
+		Mission objectives:
+		- Recruit 300 soldiers
+		
+		</brief>
+		<onenter>
+			<y>2</y>
+			<x>7</x>
+			<marky>-2</marky>
+			<markx>0</markx>									
+			<time>500</time>
+			<reenter>false</reenter>
+			<msg>You can recruit villagers for your army</msg>
+		</onenter>
+		<background>img\scenarios\aldeaquemada.bmp</background>
+		<map>stage2.map</map>
+	</stage>
+	
+	<stage>
+		<name>Jacobsvirch bridge</name>
+		<brief>In order to enter Novgorod territory you will have to cross the river Ebeerbach. The only bridge that can withstand the weight of a full army is Jacobsvirch bridge.
+		
+		You must destroy all enemy forces to ensure that our army can corss the bridge without any problems.
+		
+		Mission objectives:
+		- Destroy all enemy forces
+				
+		</brief>
+		<background>img\scenarios\puente.bmp</background>
+		<map>stage3.map</map>
+	</stage>
+
+	<stage>
+		<name>First line</name>
+		<brief>Varangian troops have crossed the bridge. Let our enemies tremble.
+		The first obstacle in our army's way is the castle of Uman, formerly held by Varangian forces. It is well protected and will not surrender easily.
+		Get the nearby villages and destroy our enemies.
+		
+		Mission objectives:
+		- Destroy all enemy forces
+						
+		</brief>
+		<background>img\scenarios\stronghold.bmp</background>
+		<map>stage4.map</map>
+	</stage>
+
+	<stage>
+		<name>The siege of Mukaceeve</name>
+		<brief>After their last defeat, Novgorods  army has crossed the river using boats overnight.
+		A great number of enemy units have gathered near our city of Mukaceeve.
+		Since Novgorod cannot get any supplies, we have to endure the siege until they weaken.
+		
+		Mission objectives:
+		- Mukaceeve must not fall
+		- Destroy all enemy forces	
+		
+		</brief>
+		<background>img\scenarios\citadel.bmp</background>
+		<map>stage5.map</map>
+	</stage>
+
+	<stage>
+		<name>The battle for Novdrel valley</name>
+		<brief>The Varangian army is preparing to attack Novgorod's capital.
+		Novdrel valley surrounds the city and is full of enemies.
+
+		Before attacking Novdrel, the exterior defenses must be weakened. Otherwise we have no hopes of succeeding.
+		
+		Mission objectives:
+		- Destroy all enemy forces		
+				
+		</brief>
+		<background>img\scenarios\escbattle.bmp</background>
+		<map>stage6.map</map>
+	</stage>
+
+	<stage>
+		<name>Gathering troops</name>
+		<brief>The walls of Novgorod give a great advantage to the enemy. We need a base of operations from which to lay siege to the capital.
+
+		You must build 3 solid castles to house the Varangian army. From there we will be able to organize the final attack.
+
+		Mission objectives:
+		- Build 3 castles
+
+		</brief>
+		<background>img\scenarios\castle.bmp</background>
+		<map>stage7.map</map>
+	</stage>
+	
+	<stage>
+		<name>The conquest of Novdrel</name>
+		<brief>This is the end of our journey. The only thing left to do is to conquest Novgorod's capital, the centennial city of Novdrel. 
+
+		The remains of the Novgorod army have retreated here and will fight to the death. It is time to avenge past offenses. The suffering of the Varangian people ends today.
+		
+		For Varangian!
+
+		Mission objectives:
+		- Conquer Novdrel
+		- Destroy all enemy forces		
+				
+		</brief>
+		<background>img\scenarios\evilcity.bmp</background>
+		<map>stage8.map</map>
+	</stage>
+	
+</campaign>

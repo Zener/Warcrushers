@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dia2", "dia2.vcxproj", "{B9B96001-F370-4831-AB2A-04BCFD061AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B96001-F370-4831-AB2A-04BCFD061AE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9B96001-F370-4831-AB2A-04BCFD061AE6}.Debug|Win32.Build.0 = Debug|Win32
+		{B9B96001-F370-4831-AB2A-04BCFD061AE6}.Release|Win32.ActiveCfg = Release|Win32
+		{B9B96001-F370-4831-AB2A-04BCFD061AE6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
